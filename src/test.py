@@ -17,7 +17,7 @@ targets = ['main.disorder', 'specific.disorder']
 
 
 # Drop unique columns
-X = data.drop([sep_col, 'no.', 'eeg.date'], axis=1).copy(deep=True)
+X = data.drop(['no.', 'eeg.date'], axis=1).copy(deep=True)
 
 # columns for log transformation
 logtrans_cols = X.drop(['sex', 'education', 'IQ']+targets, axis=1).columns
