@@ -1,5 +1,5 @@
 # EEG Data Visualization and Analysis Project 
-
+Experiments processing and analyzing EEG data. 
 
 I am using data from: 
 - https://www.researchgate.net/publication/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface
