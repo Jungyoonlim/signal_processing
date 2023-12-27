@@ -1,3 +1,4 @@
+# EEG Data Visualization and Analysis Project 
 
 
 I am using data from: 
